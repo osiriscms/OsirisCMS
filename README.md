@@ -1,4 +1,4 @@
 OsirisCMS
 =========
 
-OsirisCMS is a free, open source content management system and web application framework for publishing content on the world wide web and intranets.
+OsirisCMS (читается «Осирис ЦМС») — система управления содержимым с открытым исходным кодом и открытой лицензией. Написана на языке программирования PHP, использует для хранения данных СУБД MySQL или MS SQL[1].
